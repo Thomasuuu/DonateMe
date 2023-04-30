@@ -1,9 +1,11 @@
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
     if PlaceId == 3956818381 then -- NL
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/NL")()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/MakaCheese/Sec/main/NL")()
     elseif PlaceId == 10930107823 then -- DBB
-         loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/DBB")()
-             elseif PlaceId == 12629753855 then -- NNOW
-         loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/NNOW")()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/MakaCheese/Sec/main/DBB")()
+    elseif PlaceId == 12629753855 then -- NNOW
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/MakaCheese/Sec/main/NNOW")()
+    elseif PlaceId == 12629753855
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/MakaCheese/Sec/main/NNA")()
 end    
