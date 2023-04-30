@@ -7,5 +7,5 @@ local PlaceId = game.PlaceId
     elseif PlaceId == 12629753855 then -- NNOW
          loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/NNOW")()
     elseif PlaceId == 10118559731 then -- NNA
-         loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/NNA")()
+         warn("not yet")
 end    
